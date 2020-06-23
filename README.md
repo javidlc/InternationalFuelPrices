@@ -1,3 +1,5 @@
-International Petrol Prices from Blooomberg -2017 to June 2020
+International Petrol Prices 
 
-Data for forecasting daily International Fuel Prices. 
+Sample of Mogas 95 Index and GasL500P Index from Blooomberg -2017 to June 2020-
+
+This data was used for forecasting daily International Fuel Prices. 
